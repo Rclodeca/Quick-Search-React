@@ -1,3 +1,10 @@
+## ReactJS App
+
+Searchable User list made with React
+- Users fetched from [JSONplaceholder](https://jsonplaceholder.typicode.com/)
+- Unique randomly generated profile image for each user using [RoboHash API](https://robohash.org/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
